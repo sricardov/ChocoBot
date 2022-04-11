@@ -1,0 +1,19 @@
+{
+  "name": "chocobot",
+  "version": "1.0.0",
+  "description": "Personal bot for guild management.",
+  "main": "index.js",
+  "scripts": {
+    "test": "?test"
+  },
+  "keywords": [
+    "guild",
+    "bot",
+    "ffxiv"
+  ],
+  "author": "Sergio Ricardo",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
